@@ -45,3 +45,18 @@ The following packages were used in development and have been tested on Ubuntu 2
   - Predicting (feature extractor frozen): https://colab.research.google.com/drive/1piBHAS5JX8bVdjBXnygejjF9fxmysla8?usp=sharing
   - Training (feature extractor fine-tuned - 8 minutes): https://colab.research.google.com/drive/1o1dmvaOWy6j3hdjAdtZrnV19jRto8Da6?usp=sharing
   - Predicting (feature extractor fine-tuned): https://colab.research.google.com/drive/1xKydHw2aoeVSP_JQtbVFCHni5i5c5pbc?usp=sharing
+* Hainan gibbons
+  - Training (feature extractor frozen): 
+  - Predicting (feature extractor frozen): 
+  - Training (feature extractor fine-tuned): 
+  - Predicting (feature extractor fine-tuned): 
+* Lemurs
+  - Training (feature extractor frozen): 
+  - Predicting (feature extractor frozen): 
+  - Training (feature extractor fine-tuned): 
+  - Predicting (feature extractor fine-tuned): 
+* Pin-tailed whydah
+  - Training (feature extractor frozen): 
+  - Predicting (feature extractor frozen): 
+  - Training (feature extractor fine-tuned): 
+  - Predicting (feature extractor fine-tuned): 
