@@ -18,7 +18,7 @@ Install all requirements using pip install -r requirements.txt
 
 The following packages were used in development and have been tested on Ubuntu 20.04.3 LTS (NVIDIA-SMI 470.103.01, CUDA Version: 11.2, cudnn: 8.1.1)
 
-*tensorflow==2.7.0
+* tensorflow==2.7.0
 
 *SoundFile==0.10.3.post1
 *scikit-learn==1.0.2
