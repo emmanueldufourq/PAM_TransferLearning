@@ -46,15 +46,15 @@ The following packages were used in development and have been tested on Ubuntu 2
   - Training (feature extractor fine-tuned - 8 minutes): https://colab.research.google.com/drive/1o1dmvaOWy6j3hdjAdtZrnV19jRto8Da6?usp=sharing
   - Predicting (feature extractor fine-tuned): https://colab.research.google.com/drive/1xKydHw2aoeVSP_JQtbVFCHni5i5c5pbc?usp=sharing
 * Hainan gibbons
-  - Training (feature extractor frozen): 
-  - Predicting (feature extractor frozen): 
-  - Training (feature extractor fine-tuned): 
-  - Predicting (feature extractor fine-tuned): 
+  - Training (feature extractor frozen): https://colab.research.google.com/drive/1oYO3UWTL1BfxZn0IA0BYcg8JMGnH980D?usp=sharing
+  - Predicting (feature extractor frozen): https://colab.research.google.com/drive/1d-hGRPRIzHubwlTeedqoZCSX8RGp0r4q?usp=sharing
+  - Training (feature extractor fine-tuned): https://colab.research.google.com/drive/1uj1OT6JZ7I9z0PRB3YgE11M3ikSaSufa?usp=sharing
+  - Predicting (feature extractor fine-tuned): https://colab.research.google.com/drive/1HdnSbvBXyAkYZ4UoA4e-OUpLqeNWm-eV?usp=sharing
 * Lemurs
-  - Training (feature extractor frozen): 
-  - Predicting (feature extractor frozen): 
-  - Training (feature extractor fine-tuned): 
-  - Predicting (feature extractor fine-tuned): 
+  - Training (feature extractor frozen): https://colab.research.google.com/drive/1Nxa3hDdaR7nKpMdDGA0aBdalxMafRFvw?usp=sharing
+  - Predicting (feature extractor frozen): https://colab.research.google.com/drive/1eknVT0M9CTHqLxX29gXi6eITodSJ7Edi?usp=sharing
+  - Training (feature extractor fine-tuned): https://colab.research.google.com/drive/1yNv2GctC8B6Z0aIIdlglunctfeR6ZbW7?usp=sharing
+  - Predicting (feature extractor fine-tuned): https://colab.research.google.com/drive/1YTn4o8klnFz_Kj9eHwyX4HoA_VVdrk0l?usp=sharing
 * Pin-tailed whydah
   - Training (feature extractor frozen): 
   - Predicting (feature extractor frozen): 
