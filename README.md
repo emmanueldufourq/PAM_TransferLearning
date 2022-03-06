@@ -6,6 +6,8 @@ Our goal was to demonstrate that transfer learning is a suitable and accessible 
 
 This code accompanies the paper ``Passive Acoustic Monitoring and Transfer Learning''.
 
+Each folder contains two main code (fine tuning and no fine tuning) examples for 25 input samples. Both will contain a notebook in the form of "Training...ipynb" and "Predicting_...ipynb". The former is the notebook to train the model and the latter to predict on test cases. The easiest approach is to try out the code on Google Colab (see below) as those notebooks automatically download a subset of data. Alternatively, to run the code locally, download the appropriate dataset (see below). 
+
 # Authors
 Emmanuel Dufourq, Carly Batist, Ruben Foquet and Ian Durbach
 
