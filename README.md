@@ -56,7 +56,7 @@ The following packages were used in development and have been tested on Ubuntu 2
   - Training (feature extractor fine-tuned): https://colab.research.google.com/drive/1yNv2GctC8B6Z0aIIdlglunctfeR6ZbW7?usp=sharing
   - Predicting (feature extractor fine-tuned): https://colab.research.google.com/drive/1YTn4o8klnFz_Kj9eHwyX4HoA_VVdrk0l?usp=sharing
 * Pin-tailed whydah
-  - Training (feature extractor frozen): 
-  - Predicting (feature extractor frozen): 
-  - Training (feature extractor fine-tuned): 
-  - Predicting (feature extractor fine-tuned): 
+  - Training (feature extractor frozen): https://colab.research.google.com/drive/1AIhBTQkaUkBrs9ADGU1r4fz1eRGKmyJ9?usp=sharing
+  - Predicting (feature extractor frozen): https://colab.research.google.com/drive/1FeLYcKQlE29m64TTRWJ_suuHuI9sxREe?usp=sharing
+  - Training (feature extractor fine-tuned): https://colab.research.google.com/drive/1KTOQlnUdY6Jv7wzYympA-PFOUgPqOOsX?usp=sharing
+  - Predicting (feature extractor fine-tuned): https://colab.research.google.com/drive/14DkzYCnJXwdSuQno7ONrfX89G9UnvaV8?usp=sharing
