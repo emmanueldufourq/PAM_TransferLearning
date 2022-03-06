@@ -38,7 +38,7 @@ The following packages were used in development and have been tested on Ubuntu 2
 We provide a subset of data used in this study:
 
 * critically endangered Hainan gibbon (Nomascus hainanus) - Link: https://zenodo.org/record/6328319#.YiSoBRuxVH4 DOI: 10.5281/zenodo.6328319
-* critically endangered black-and-white ruffed lemur (Varecia variegata) - Link: ... DOI: ...
+* critically endangered black-and-white ruffed lemur (Varecia variegata) - Link: https://zenodo.org/record/6331594#.YiTo4HUzZKs DOI: 10.5281/zenodo.6331594
 * vulnerable Thyolo alethe (Chamaetylas choloensis) - Link: https://zenodo.org/record/6328244#.YiSo5BuxVH4 DOI: 10.5281/zenodo.6328244
 * least concern pin-tailed whydah (Vidua macroura) - Link: https://zenodo.org/record/6330711#.YiSnuBuxVH4 DOI: 10.5281/zenodo.6330711
 
