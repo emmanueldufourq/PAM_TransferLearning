@@ -19,16 +19,15 @@ Install all requirements using pip install -r requirements.txt
 The following packages were used in development and have been tested on Ubuntu 20.04.3 LTS (NVIDIA-SMI 470.103.01, CUDA Version: 11.2, cudnn: 8.1.1)
 
 * tensorflow==2.7.0
-
-*SoundFile==0.10.3.post1
-*scikit-learn==1.0.2
-*scipy==1.8.0
-*numpy==1.18.5
-*jupyter==1.0.0
-*pandas==1.4.1
-*librosa==0.8.0
-*yattag==1.14.0
-*matplotlib==3.3.3
-*Keras==2.7.0
+* SoundFile==0.10.3.post1
+* scikit-learn==1.0.2
+* scipy==1.8.0
+* numpy==1.18.5
+* jupyter==1.0.0
+* pandas==1.4.1
+* librosa==0.8.0
+* yattag==1.14.0
+* matplotlib==3.3.3
+* Keras==2.7.0
 
 <hr>
