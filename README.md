@@ -41,7 +41,7 @@ The following packages were used in development and have been tested on Ubuntu 2
 # Executing code on Google Colab (easiest way to get started!)
 
 * Thyolo alethe
-  - Training (feature extractor frozen):
+  - Training (feature extractor frozen - 8 minutes): https://colab.research.google.com/drive/1KZDRrCEjzu3HzP3dLFmDbqXVO0eqEs7V?usp=sharing
   - Predicting (feature extractor frozen):
   - Training (feature extractor fine-tuned):
   - Predicting (feature extractor fine-tuned):
